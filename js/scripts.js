@@ -14,7 +14,7 @@ btn.addEventListener('click', () => {
     console.log(coutner);
 
     if(coutner % 2 === 0) {
-        h1.innerHTML = 'Tuning samjochodów Kraków';
+        h1.innerHTML = 'Tuning samochodów Kraków';
     } else { 
         h1.innerHTML = 'Będzie Pan zadowolony ;)';
     }
